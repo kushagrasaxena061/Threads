@@ -33,3 +33,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+history
+.history
+/.history
+
+.gitignore
+/.gitignore
+
+./history
+.history
